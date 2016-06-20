@@ -1,6 +1,6 @@
 ---
 published: true
-title: Story of a walking wolve
+title: Story of a walking tall
 layout: post
 ---
 Hello, friends.
