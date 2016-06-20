@@ -1,6 +1,7 @@
 ---
 published: true
-title: Very first post on this blog
+title: Story of a walking wolve
 layout: post
 ---
-hello world!
+Hello, friends.
+this is my personal web space to share some knowledge
