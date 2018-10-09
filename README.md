@@ -2,4 +2,4 @@
 
 trying to develop my own website.
 
-click here to see progress http://kaushalelsewhere.github.io
+click here to see progress https://kaushalelsewhere.github.io
