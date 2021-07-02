@@ -2,26 +2,25 @@
 # General Site Settings
 title: Kaushal Elsewhere
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Bracia is a simple personal blog theme for Jekyll.
+description: this site is under construction
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Steve Kolinsky
-  title: Hey, I’m Steve Kolinsky!
-  description: I am a Senior Software Engineer. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.
-  image: '/images/01.jpg'
-  avatar: '/images/01-1.jpg'
+  name: Kaushal Elsewhere
+  title: Hey, I’m Kaushal Elsewhere!
+  description: I am a tech enthusiast based in Sydney, Australia.
+  image: '/images/kaushal.jpg'
+  avatar: '/images/kaushal.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion-logo-github", label: Github, link: "https://github.com"}
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/KaushElsewhere"}
+#- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+#- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/kaushal.elsewhere"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/KaushalElsewhere"}
 
 # Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -39,8 +38,8 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: kaushal.exe@gmail.com # Add your email for contact form
+  description: Reach me anytime.
 
 # NOTE
 # Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -53,7 +52,7 @@ disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-MQP3M08T9V # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
