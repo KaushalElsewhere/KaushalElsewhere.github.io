@@ -1,9 +1,17 @@
 ---
-layout: default
-title: "404: Page not found"
+layout: page
+title: Page not found
+image: '/images/04.jpg'
+permalink: /404.html
 ---
-
-<div class="page">
-  <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="/">Head back home</a> to try finding it again.</p>
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="error">
+        <h2 class="error__title">404</h2>
+        <p class="error__text">Sorry – the page your looking for doesn't exist.</p>
+        <a class="button button--dark" href="{{site.baseurl}}/">Back to homepage</a>
+      </div>
+    </div>
+  </div>
 </div>
