@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/725f121d-243b-48fc-a70e-60f60cb8e0ca/deploy-status)](https://app.netlify.com/sites/kaushalblog/deploys)
+[![pages-build-deployment](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=release)](https://github.com/KaushalElsewhere/KaushalElsewhere.github.io/actions/workflows/pages/pages-build-deployment)
 
 * * *
 ### Theme features
