@@ -1,14 +1,6 @@
-# Bracia is a simple personal blog theme for Jekyll.
-
-Bracia is a simple personal blog theme for Jekyll. This theme is fully responsive, super fast and has a modern design, and also comes with light and dark mode. With the Bracia theme, your blog will look unique and stylish.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/725f121d-243b-48fc-a70e-60f60cb8e0ca/deploy-status)](https://app.netlify.com/sites/kaushalblog/deploys)
 
 * * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://bracia.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
-
 ### Theme features
 
 - Compatible with Jekyll 4.2
@@ -58,7 +50,3 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 Before using the Bracia theme, please read the attached documentation.
 
 * * *
-
-### Support
-
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:artemsheludko@tuta.io">Contact</a><p>
